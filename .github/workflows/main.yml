@@ -1,4 +1,4 @@
-name: CI
+name: Remote Pc
 
 on: [push, workflow_dispatch]
 
