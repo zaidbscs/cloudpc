@@ -1,4 +1,4 @@
-![CLOUDPC](http://readmecraft.free.nf/uploads/banner_6aa0afdc9f58d.png)
+![CLOUDPC](http://readmecraft.free.nf/uploads/banner_6aa0b0b6cea5a.png)
 
 # Free Cloud Remote PC via GitHub Actions
 
